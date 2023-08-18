@@ -43,7 +43,7 @@ export default function Nav() {
                                                                                 </div>
                                                                                 </div>
                                                                                 </div>
-    {/* nav end */}
+    {/* nav ends here */}
       <div className="fixed top-0 left-0 right-0 z-50 py-[10px] md:py-[20px] 2xl:py-[31px] bg-transparent">
       </div>
       <div className="max-w-[1350px] px-[20px] mx-auto"></div>
