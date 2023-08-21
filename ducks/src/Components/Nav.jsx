@@ -39,7 +39,7 @@
         justifyContent: 'center',
         display: 'grid',
         // gridTemplateColumns: 'repeat(auto-fill, minmax(300px, 1fr))',
-        gap: '70rem',
+        gap: '69rem',
          marginLeft:'-20rem',
       },
 //circle
